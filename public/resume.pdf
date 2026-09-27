@@ -1,0 +1,69 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3136 >>
+stream
+BT /F2 19 Tf 50 740 Td (SRIKANTH BHEEMAGANI) Tj ET
+BT /F1 10.5 Tf 50 724 Td (Python Full Stack Developer | Computer Science Engineering Student) Tj ET
+BT /F1 9 Tf 50 710 Td (Email: srikanthbeemagani584@gmail.com | GitHub: github.com/srkanth136 | B.Tech CSE 2026) Tj ET
+BT /F1 9 Tf 50 698 Td (LinkedIn: linkedin.com/in/srikanth-bheemagani-a5258732b) Tj ET
+0.2 0.4 0.8 RG 1.5 w 50 688 m 562 688 l S
+BT /F2 12 Tf 50 668 Td (PROFESSIONAL SUMMARY) Tj ET
+BT /F1 9.5 Tf 50 653 Td (Computer Science Engineering student passionate about building scalable, user-friendly web) Tj ET
+BT /F1 9.5 Tf 50 641 Td (applications using Python, React, Django, FastAPI, and SQL databases.) Tj ET
+BT /F2 12 Tf 50 618 Td (TECHNICAL SKILLS) Tj ET
+BT /F2 9.5 Tf 50 603 Td (Languages: ) Tj /F1 9.5 Tf (Python, JavaScript, SQL, HTML5, CSS3) Tj ET
+BT /F2 9.5 Tf 50 589 Td (Backend: ) Tj /F1 9.5 Tf (Django, Flask, FastAPI, Node.js, Express.js) Tj ET
+BT /F2 9.5 Tf 50 575 Td (Frontend: ) Tj /F1 9.5 Tf (React.js, Modern JavaScript, Responsive Web Design) Tj ET
+BT /F2 9.5 Tf 50 561 Td (Databases: ) Tj /F1 9.5 Tf (MySQL, MongoDB) Tj ET
+BT /F2 9.5 Tf 50 547 Td (Tools: ) Tj /F1 9.5 Tf (Git, GitHub, VS Code, npm) Tj ET
+BT /F2 12 Tf 50 523 Td (FEATURED PROJECTS) Tj ET
+BT /F2 10.5 Tf 50 507 Td (1. E-Commerce Website ) Tj /F1 9.5 Tf ([MERN Stack - React, Node.js, Express, MongoDB]) Tj ET
+BT /F1 9 Tf 60 494 Td (- Built complete e-commerce solution with authentication, product catalog, cart, and checkout.) Tj ET
+BT /F1 9 Tf 60 482 Td (- Admin dashboard for inventory management and order tracking with responsive UI.) Tj ET
+BT /F2 10.5 Tf 50 462 Td (2. Voice Desk Assistant ) Tj /F1 9.5 Tf ([Python, Voice Processing, Task Automation]) Tj ET
+BT /F1 9 Tf 60 449 Td (- Voice-driven desktop assistant executing system automation and user commands.) Tj ET
+BT /F1 9 Tf 60 437 Td (- Natural audio response generation and modular command processing pipeline.) Tj ET
+BT /F2 10.5 Tf 50 417 Td (3. Time Tracking & Productivity Analytics Chrome Extension ) Tj /F1 9.5 Tf ([JavaScript, Chrome APIs]) Tj ET
+BT /F1 9 Tf 60 404 Td (- Tracks website usage duration and classifies activity into productive vs unproductive.) Tj ET
+BT /F1 9 Tf 60 392 Td (- Generates weekly visual productivity breakdowns and summary reports.) Tj ET
+BT /F2 10.5 Tf 50 372 Td (4. Student Course Management System ) Tj /F1 9.5 Tf ([MySQL, Relational Database Design]) Tj ET
+BT /F1 9 Tf 60 359 Td (- Designed schema handling students, courses, enrollments, and academic transcripts.) Tj ET
+BT /F1 9 Tf 60 347 Td (- Leveraged SQL JOINs, subqueries, aggregate functions, stored procedures, and triggers.) Tj ET
+BT /F2 12 Tf 50 323 Td (EDUCATION) Tj ET
+BT /F2 10.5 Tf 50 308 Td (Bachelor of Technology in Computer Science and Engineering) Tj ET
+BT /F1 9.5 Tf 50 294 Td (Class of 2026) Tj ET
+BT /F2 12 Tf 50 270 Td (CERTIFICATIONS) Tj ET
+BT /F2 10 Tf 50 255 Td (Career Essentials in Generative AI ) Tj /F1 9.5 Tf (- Microsoft & LinkedIn) Tj ET
+0.5 0.5 0.5 RG 0.5 w 50 235 m 562 235 l S
+BT /F1 8.5 Tf 50 220 Td (Note: Place your official updated resume PDF at public/resume.pdf to replace this document.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003439 00000 n 
+0000003509 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3584
+%%EOF
