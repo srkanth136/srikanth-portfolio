@@ -1,3 +1,4 @@
+
 # Srikanth Bheemagani - Developer Portfolio
 
 A modern, responsive, and performance-optimized developer portfolio website built with **React**, **Vite**, **Tailwind CSS**, and **Lucide React**. Designed specifically for showcasing software development projects, technical skills, and academic background to recruiters and engineering teams.
@@ -153,3 +154,5 @@ All personal text, social handles, links, and project entries are centralized in
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+
